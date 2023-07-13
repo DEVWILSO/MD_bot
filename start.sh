@@ -1,5 +1,5 @@
 echo "Cloning Repository"
-git clone https://github.com/myselfdev24/MDdudebot
+git clone https://github.com/DEVWILSO/MD_bot
 cd /md-renamebot 
 echo "installing requirements"
 pip3 install -U -r requirements.txt
